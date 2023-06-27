@@ -1,2 +1,2 @@
-# Branding
-This is a branding repo for EddieHub community
+# GrowInCommunity Branding Repository
+This repository contains Assets for GrowInCommunity branding.
